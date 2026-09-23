@@ -1,0 +1,14 @@
+{
+  "name": "Keeper Mobile",
+  "short_name": "Keeper",
+  "description": "Мобильная касса для управления столами, счетами и оплатами",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#dcecef",
+  "theme_color": "#087da7",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
